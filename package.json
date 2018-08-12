@@ -1,0 +1,9 @@
+{
+  "name": "button-generator-plugin",
+  "version": "1.0.0",
+  "description": "Scratching my own itch - generate a button component based on a caption and button type",
+  "main": "index.js",
+  "repository": "https://github.com/danorak/button-generator-plugin.git",
+  "author": "Dan Jones <danjones2000@gmail.com>",
+  "license": "MIT"
+}
